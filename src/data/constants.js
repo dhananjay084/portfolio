@@ -14,7 +14,7 @@ export const Bio = {
     "Experienced and detail-oriented React and Frontend Developer with over 3 years of hands-on experience in designing, developing, and deploying responsive web applications. Proficient in utilizing modern frontend technologies to create intuitive user interfaces and engaging user experiences. Adept at collaborating with cross-functional teams to deliver high-quality solutions that meet client requirements and business objectives.",
  
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/12GNu7x8YkEE5K4zm81xN4B5lBknPu2RS/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/dhananjay-bansal-68848b142/",
  
 };
