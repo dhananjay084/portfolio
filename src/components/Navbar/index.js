@@ -12,9 +12,11 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to='/'>
-          <a href="#" style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
-          </a>
+          {/* <a href="#" style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
+            <DiCssdeck size="3rem" />
+             
+          </a> */}
+          <Span>Portfolio</Span>
         </NavLogo>
         <MobileIcon>
           <FaBars onClick={() => {
